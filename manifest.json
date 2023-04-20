@@ -1,8 +1,8 @@
 {
     "name": "SoFlow",
     "short_name": "SoFlow",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/gillian_movie_build/",
+    "start_url": "/gillian_movie_build/",
     "display": "standalone",
     "background_color": "#EA0F0D",
     "theme_color": "#EA0F0D",
